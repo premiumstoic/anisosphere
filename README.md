@@ -1,3 +1,7 @@
+# AnisoSphere
+
+Sabanci University PURE Project 2025 Summer - Magnetostriction and Strain Dependent Anisotropy in Heusler Alloys
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
